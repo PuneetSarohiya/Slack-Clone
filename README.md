@@ -4,33 +4,6 @@
 [![Issues][issues-shield]][issues-url]
 [![GitHub license](https://img.shields.io/github/license/abhishekpatel946/Slack-Clone)](https://github.com/abhishekpatel946/Slack-Clone)
 
-
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/abhishekpatel946/Slack-Clone">
-    <img src="https://github.com/abhishekpatel946/Slack-Clone/blob/main/src/assets/logo-readme.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Slack Clone</h3>
-
-  <p align="center">
-    Slack Clone README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/abhishekpatel946/Slack-Clone"><strong>Explore the docs»</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/abhishekpatel946/Slack-Clone">View Demo</a>
-    Â·
-    <a href="https://github.com/abhishekpatel946/Slack-Clone/issues">Report Bug</a>
-    Â·
-    <a href="https://github.com/abhishekpatel946/Slack-Clone/issues">Request Feature</a>
-  </p>
-</p>
-
-
-
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
@@ -45,16 +18,6 @@
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-<p align="center">
-  <a href="https://github.com/abhishekpatel946/Slack-Clone">
-    <img src="https://github.com/abhishekpatel946/Slack-Clone/blob/main/src/assets/slack_logo-ebd02d1.svg" alt="Logo" width="300" height="300">
-  </a>
-</p>
 
 # Slack Clone
 
@@ -89,27 +52,6 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* Clone
-```sh
-git clone https://github.com/abhishekpatel946/Slack-Clone.git
-```
-
-* Link
-#### [Slack Clone](https://slack-clone-152da.web.app/)
-
-## Installation
-
-1. Clone the repo
-```sh
-git clone https://github.com/abhishekpatel946/Slack-Clone.git
-```
-
-2. Go to the Slack-Clone
-```sh
-cd Slack-Clone
-```
-
 3. Run the slack-clone in localhost
 ```sh
 npm start
@@ -128,38 +70,6 @@ _For more examples, please refer to the [Documentation](#built-with)_
 
 
 <!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/abhishekpatel946/Slack-Clone/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See [`LICENSE`](https://github.com/abhishekpatel946/Slack-Clone/blob/main/LICENSE) for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Project Link: [https://github.com/abhishekpatel946/Slack-Clone](https://github.com/abhishekpatel946/Slack-Clone)
-
-
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
